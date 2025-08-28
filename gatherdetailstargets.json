@@ -1,19 +1,7 @@
 [
     {
-        "ComputerName": "5CG41705T0",
-        "Users": [
-            {
-                "Name": "Foobear",
-                "Delete": "no"
-            },
-            {
-                "Name": "Foobear6",
-                "Delete": "yes"
-            }
-        ]
-    },
-    {
-        "ComputerName": "5CD3434JHK",
+        "Added":"08282025",
+        "ComputerName": "MP29CGQ7",
         "Users": [
             {
                 "Name": "defaultuser0",
@@ -42,8 +30,8 @@
         ]
     },
     {
-        "Added": "08042025",
-        "ComputerName": "MP27R0LM",
+        "Added":"08282025",
+        "ComputerName": "2MQ45203VK",
         "Users": [
             {
                 "Name": "defaultuser0",
@@ -51,13 +39,29 @@
             },
             {
                 "Name": "defaultuser1",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser2",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser3",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser4",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser5",
                 "Delete": "yes"
             }
         ]
     },
-    {
-        "Added": "08042025",
-        "ComputerName": "5CD3504568",
+  {
+        "Added":"08282025",
+        "ComputerName": "5CD3159GDS",
         "Users": [
             {
                 "Name": "defaultuser0",
@@ -66,32 +70,21 @@
             {
                 "Name": "defaultuser1",
                 "Delete": "yes"
-            }
-        ]
-    },
-    {
-        "Added": "08042025",
-        "ComputerName": "5CD3168DDR",
-        "Users": [
+            },
             {
-                "Name": "defaultuser0",
+                "Name": "defaultuser2",
                 "Delete": "yes"
             },
             {
-                "Name": "defaultuser1",
-                "Delete": "yes"
-            }
-        ]
-    },
-    {
-        "ComputerName": "5CG3281T42",
-        "Users": [
-            {
-                "Name": "defaultuser0",
+                "Name": "defaultuser3",
                 "Delete": "yes"
             },
             {
-                "Name": "defaultuser1",
+                "Name": "defaultuser4",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser5",
                 "Delete": "yes"
             }
         ]
