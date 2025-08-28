@@ -1,0 +1,99 @@
+[
+    {
+        "ComputerName": "5CG41705T0",
+        "Users": [
+            {
+                "Name": "Foobear",
+                "Delete": "no"
+            },
+            {
+                "Name": "Foobear2",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "ComputerName": "5CD3434JHK",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser2",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser3",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser4",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser5",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "Added": "08042025",
+        "ComputerName": "MP27R0LM",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "Added": "08042025",
+        "ComputerName": "5CD3504568",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "Added": "08042025",
+        "ComputerName": "5CD3168DDR",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "ComputerName": "5CG3281T42",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            }
+        ]
+    }
+]
