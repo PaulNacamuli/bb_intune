@@ -1,0 +1,386 @@
+[
+    {
+        "Id": "Adobe.Acrobat.Reader.64-bit",
+        "Name": "Acrobat Reader",
+        "GUI": "",
+        "Exe": "Acrobat.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Id": "Amazon.AWSCLI",
+        "Name": "Amazon AWS CLI",
+        "GUI": "",
+        "Exe": "aws.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Apple.AppleMobileDeviceSupport",
+        "Name": "Apple Bonjour",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Apple.Bonjour",
+        "Name": "Apple Bonjour",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Bitwarden.Bitwarden",
+        "Name": "Bitwarden",
+        "GUI": "",
+        "Exe": "bitwarden.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Id": "ColonyLabs.ScribeDesktopCapture",
+        "Name": "Scribe Desktop Capture",
+        "GUI": "",
+        "Exe": "scribe.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Dell.PeripheralManager",
+        "Name": "Dell Peripheral Manager",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Dropbox.Dropbox",
+        "Name": "Dropbox",
+        "GUI": "",
+        "Exe": "dropbox.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Git.Git",
+        "Name": "Git",
+        "GUI": "",
+        "Exe": "git.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "GitHub.GitHubDesktop",
+        "Name": "GitHub Desktop",
+        "GUI": "",
+        "Exe": "githubdesktop.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Id": "Google.Chrome.EXE",
+        "Name": "Google Chrome",
+        "GUI": "",
+        "Exe": "chrome.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Grammarly.Grammarly",
+        "Name": "Grammarly",
+        "GUI": "",
+        "Exe": "zzzzt",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.AppInstaller",
+        "Name": "MS App Installer",
+        "GUI": "",
+        "Exe": "appinstaller.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.AzureCLI",
+        "Name": "Azure CLI",
+        "GUI": "",
+        "Exe": "az.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.Azure.StorageExplorer",
+        "Name": "Azure CLI",
+        "GUI": "",
+        "Exe": "az.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.DevHome",
+        "Name": "MS Dev Home",
+        "GUI": "",
+        "Exe": "devhome.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.Edge",
+        "Name": "Microsoft Edge",
+        "GUI": "",
+        "Exe": "msedge.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.PowerShell",
+        "Name": "PowerShell",
+        "GUI": "",
+        "Exe": "powershell.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.PowerToys",
+        "Name": "MS PowerToys",
+        "GUI": "",
+        "Exe": "powertoys.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.SQLServerManagementStudio",
+        "Name": "SQL Server Management Studio",
+        "GUI": "[Long update, hang in there...]",
+        "Exe": "ssms.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Id": "Microsoft.Teams",
+        "Name": "MS Teams",
+        "GUI": "",
+        "Exe": "teams.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.Teams.Classic",
+        "Name": "MS Teams Classic",
+        "GUI": "",
+        "Exe": "teamsclassic.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.UI.Xaml.2.7",
+        "Name": "MS UI Xaml",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2005.x64",
+        "Name": "MS VC Redist 2005 x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2005.x86",
+        "Name": "MS VC Redist 2005 x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2008.x64",
+        "Name": "MS VC Redist 2008 x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2008.x86",
+        "Name": "MS VC Redist 2008 x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2010.x64",
+        "Name": "MS VC Redist 2010 x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2010.x86",
+        "Name": "MS VC Redist 2010 x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2012.x64",
+        "Name": "MS VC Redist 2012 x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2012.x86",
+        "Name": "MS VC Redist 2012 x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2013.x64",
+        "Name": "MS VC Redist 2013 x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2013.x86",
+        "Name": "MS VC Redist 2013 x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2015+.x64",
+        "Name": "MS VC Redist 2015+ x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VCRedist.2015+.x86",
+        "Name": "MS VC Redist 2015+ x86",
+        "GUI": "",
+        "Exe": "vcredist_x86.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.VisualStudioCode",
+        "Name": "VS Code",
+        "GUI": "",
+        "Exe": "code.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Id": "Microsoft.WindowsPCHealthCheck",
+        "Name": "Windows PC Health Check",
+        "GUI": "",
+        "Exe": "windowshealthcheck.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Microsoft.WindowsTerminal",
+        "Name": "Windows Terminal",
+        "GUI": "",
+        "Exe": "wt.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "monday.monday",
+        "Name": "Monday.com",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Mozilla.Firefox",
+        "Name": "Firefox",
+        "GUI": "",
+        "Exe": "Firefox.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Notepad++.Notepad++",
+        "Name": "Notepad++",
+        "GUI": "",
+        "Exe": "notepad++.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Poly.PolyLens",
+        "Name": "PolyLens",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Postman.Postman",
+        "Name": "Postman",
+        "GUI": "",
+        "Exe": "postman.exe",
+        "Display": false,
+        "Kill": true
+    },
+    {
+        "Id": "SlackTechnologies.Slack",
+        "Name": "Slack",
+        "GUI": "",
+        "Exe": "slack.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Id": "Sonos.Controller",
+        "Name": "Sonos Controller",
+        "GUI": "",
+        "Exe": "sonos.exe",
+        "Display": false,
+        "Kill": true
+    },
+    {
+        "Id": "Hashicorp.Vagrant",
+        "Name": "Vagrant",
+        "GUI": "[10-20 minutes, hang in there...]",
+        "Exe": "vagrant.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "WinSCP.WinSCP",
+        "Name": "WinSCP",
+        "GUI": "",
+        "Exe": "winscp.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Id": "Zoom.Zoom.EXE",
+        "Name": "Zoom",
+        "GUI": "",
+        "Exe": "zoom.exe",
+        "Display": true,
+        "Kill": false
+    }
+]

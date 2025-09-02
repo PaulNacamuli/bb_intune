@@ -1,0 +1,27 @@
+[
+    {
+        "Id": "Adobe.Acrobat.Reader.64-bit",
+        "Name": "Acrobat Reader",
+        "Reason": "Can't update with WinGet"
+    },
+    {
+        "Id": "FineprintSoftware.FinePrint",
+        "Name": "FinePrint",
+        "Reason": "Excluded due to licensing conflicts"
+    },
+    {
+        "Id": "FineprintSoftware.pdfFactory",
+        "Name": "pdfFactory",
+        "Reason": "Excluded due to licensing conflicts"
+    },
+    {
+        "Id": "Microsoft.GlobalSecureAccessClient",
+        "Name": "Global Secure Access Client",
+        "Reason": "Incompatible with current deployment"
+    },
+    {
+        "Id": "Poly.PolyLens",
+        "Name": "Poly Lens",
+        "Reason": "Causes conflicts with audio drivers"
+    }
+]
