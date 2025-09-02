@@ -1,6 +1,6 @@
 [
     {
-        "Added":"08282025",
+        "Added": "08282025",
         "ComputerName": "MP29CGQ7",
         "Users": [
             {
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "Added":"08282025",
+        "Added": "08282025",
         "ComputerName": "2MQ45203VK",
         "Users": [
             {
@@ -59,9 +59,69 @@
             }
         ]
     },
-  {
-        "Added":"08282025",
+    {
+        "Added": "08282025",
         "ComputerName": "5CD3159GDS",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser2",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser3",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser4",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser5",
+                "Delete": "yes"
+            }
+        ]
+    },
+        {
+        "Added": "08282025",
+        "ComputerName": "5CG41705T0",
+        "Users": [
+            {
+                "Name": "defaultuser0",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser1",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser2",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser3",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser4",
+                "Delete": "yes"
+            },
+            {
+                "Name": "defaultuser5",
+                "Delete": "yes"
+            }
+        ]
+    },
+    {
+        "Added": "09022025",
+        "ComputerName": "2MQ45203WC",
         "Users": [
             {
                 "Name": "defaultuser0",
