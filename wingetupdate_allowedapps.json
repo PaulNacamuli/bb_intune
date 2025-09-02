@@ -216,7 +216,7 @@
         "Kill": false
     },
     {
-        "Name": "MS Visual C++  2010 x64",
+        "Name": "MS Visual C++ 2010 x64",
         "Id": "Microsoft.VCRedist.2010.x64",
         "GUI": "",
         "Exe": "vcredist_x64.exe",
@@ -272,7 +272,311 @@
         "Kill": false
     },
     {
-        "Name": "MS Visual C++  2015+ x86",
+        "Name": "MS Visual C++ 2015+ x86",
+        "Id": "Microsoft.VCRedist.2015+.x86",
+        "GUI": "",
+        "Exe": "vcredist_x86.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual Studio Code",
+        "Id": "Microsoft.VisualStudioCode",
+        "GUI": "",
+        "Exe": "code.exe",
+        "Display": false,
+        "Kill": true
+    },
+    {
+        "Name": "MS Windows PC Health Check",
+        "Id": "Microsoft.WindowsPCHealthCheck",
+        "GUI": "",
+        "Exe": "windowshealthcheck.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Windows Terminal",
+        "Id": "Microsoft.WindowsTerminal",
+        "GUI": "",
+        "Exe": "wt.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "Monday.com",
+        "Id": "monday.monday",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "Notepad++",
+        "Id": "Notepad++.Notepad++",
+        "GUI": "",
+        "Exe": "notepad++.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "PolyLens",
+        "Id": "Poly.PolyLens",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "Postman",
+        "Id": "Postman.Postman",
+        "GUI": "",
+        "Exe": "postman.exe",
+        "Display": false,
+        "Kill": true
+    },
+    {
+        "Name": "Slack",
+        "Id": "SlackTechnologies.Slack",
+        "GUI": "",
+        "Exe": "slack.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "Scribe Desktop Capture",
+        "Id": "ColonyLabs.ScribeDesktopCapture",
+        "GUI": "",
+        "Exe": "scribe.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "Sonos Controller",
+        "Id": "Sonos.Controller",
+        "GUI": "",
+        "Exe": "sonos.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "Vagrant",
+        "Id": "Hashicorp.Vagrant",
+        "GUI": "[10-20 minutes, hang in there...]",
+        "Exe": "vagrant.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "WinSCP",
+        "Id": "WinSCP.WinSCP",
+        "GUI": "",
+        "Exe": "winscp.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "Zoom",
+        "Id": "Zoom.Zoom.EXE",
+        "GUI": "",
+        "Exe": "zoom.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "Google Chrome",
+        "Id": "Google.Chrome.EXE",
+        "GUI": "",
+        "Exe": "chrome.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "Grammarly",
+        "Id": "Grammarly.Grammarly",
+        "GUI": "",
+        "Exe": "zzzzt",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS App Installer",
+        "Id": "Microsoft.AppInstaller",
+        "GUI": "",
+        "Exe": "appinstaller.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Azure CLI",
+        "Id": "Microsoft.AzureCLI",
+        "GUI": "",
+        "Exe": "az.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS Azure Storage Explorer",
+        "Id": "Microsoft.Azure.StorageExplorer",
+        "GUI": "",
+        "Exe": "az.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Dev Home",
+        "Id": "Microsoft.DevHome",
+        "GUI": "",
+        "Exe": "devhome.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Edge",
+        "Id": "Microsoft.Edge",
+        "GUI": "",
+        "Exe": "msedge.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS PowerShell",
+        "Id": "Microsoft.PowerShell",
+        "GUI": "",
+        "Exe": "powershell.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS PowerToys",
+        "Id": "Microsoft.PowerToys",
+        "GUI": "",
+        "Exe": "powertoys.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS SQL Server Management Studio",
+        "Id": "Microsoft.SQLServerManagementStudio",
+        "GUI": "[Long update, hang in there...]",
+        "Exe": "ssms.exe",
+        "Display": true,
+        "Kill": true
+    },
+    {
+        "Name": "MS Teams",
+        "Id": "Microsoft.Teams",
+        "GUI": "",
+        "Exe": "teams.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS Teams Classic",
+        "Id": "Microsoft.Teams.Classic",
+        "GUI": "",
+        "Exe": "teamsclassic.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS UI Xaml",
+        "Id": "Microsoft.UI.Xaml.2.7",
+        "GUI": "",
+        "Exe": "zzzz.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2005 x64",
+        "Id": "Microsoft.VCRedist.2005.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2005 x86",
+        "Id": "Microsoft.VCRedist.2005.x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2008 x64",
+        "Id": "Microsoft.VCRedist.2008.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2008 x86",
+        "Id": "Microsoft.VCRedist.2008.x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2010 x64",
+        "Id": "Microsoft.VCRedist.2010.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2010 x86",
+        "Id": "Microsoft.VCRedist.2010.x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2012 x64",
+        "Id": "Microsoft.VCRedist.2012.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2012 x86",
+        "Id": "Microsoft.VCRedist.2012.x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2013 x64",
+        "Id": "Microsoft.VCRedist.2013.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2013 x86",
+        "Id": "Microsoft.VCRedist.2013.x86",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": false,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2015+ x64",
+        "Id": "Microsoft.VCRedist.2015+.x64",
+        "GUI": "",
+        "Exe": "vcredist_x64.exe",
+        "Display": true,
+        "Kill": false
+    },
+    {
+        "Name": "MS Visual C++ 2015+ x86",
         "Id": "Microsoft.VCRedist.2015+.x86",
         "GUI": "",
         "Exe": "vcredist_x86.exe",
