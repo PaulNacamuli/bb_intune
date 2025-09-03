@@ -34,7 +34,9 @@
         "ComputerName": "5CG41705T0",
         "RemoveDefaultUsers": true,
         "RegKeyRemove": [
-            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX",
+            "HKEY_USERS\\Administrator\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX",
+            "HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
         ]
     },
     {
