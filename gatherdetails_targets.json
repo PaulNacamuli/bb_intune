@@ -26,29 +26,14 @@
     },
     {
         "Added": "08282025",
-        "ComputerName": "5CD3159GDS",
-        "RemoveDefaultUsers": true
-    },
-    {
-        "Added": "09042025",
-        "ComputerName": "5cd3159gdx",
+        "ComputerName": "5cd3051nnw",
         "RemoveDefaultUsers": true,
         "Users": [
             {
-                "Name": "JLWil",
+                "Name": "Administrator",
                 "Delete": "yes"
             }
         ],
-        "RegKeyRemove": [
-            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX",
-            "HKEY_USERS\\Administrator\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX",
-            "HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
-        ]
-    },
-    {
-        "Added": "08282025",
-        "ComputerName": "5cd3051nnw",
-        "RemoveDefaultUsers": true,
         "RegKeyRemove": [
             "HKEY_USERS\\Administrator\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
         ]
@@ -57,5 +42,13 @@
         "Added": "09022025",
         "ComputerName": "2MQ45203WC",
         "RemoveDefaultUsers": true
+    },
+    {
+        "Added": "09052025",
+        "ComputerName": "mp28bh00",
+        "RemoveDefaultUsers": true,
+        "RegKeyRemove": [
+            "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{db747e10-c752-4e5a-b099-922800123b36}"
+        ]
     }
 ]
