@@ -50,7 +50,7 @@
         "RegKeyRemove": [
             "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{db747e10-c752-4e5a-b099-922800123b36}"
         ]
-    }
+    },
     {
         "Added": "09052025",
         "ComputerName": "5CG41705T0",
