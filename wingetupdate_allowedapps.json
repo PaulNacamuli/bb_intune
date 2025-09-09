@@ -153,9 +153,9 @@
         {
             "Name": "MS PowerToys",
             "Id": "Microsoft.PowerToys",
-            "GUI": "",
+            "GUI": "[Long update, hang in there...]",
             "Exe": "powertoys.exe",
-            "Display": false,
+            "Display": true,
             "Kill": false
         },
         {
