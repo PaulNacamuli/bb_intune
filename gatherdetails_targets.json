@@ -39,11 +39,6 @@
         ]
     },
     {
-        "Added": "09022025",
-        "ComputerName": "2MQ45203WC",
-        "RemoveDefaultUsers": true
-    },
-    {
         "Added": "09052025",
         "ComputerName": "mp28bh00",
         "RemoveDefaultUsers": true,
