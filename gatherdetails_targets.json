@@ -38,6 +38,11 @@
             "HKEY_USERS\\Administrator\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
         ]
     },
+        {
+        "Added": "09152025",
+        "ComputerName": "MP29CGQ7",
+        "RemoveDefaultUsers": true
+    },
     {
         "Added": "09052025",
         "ComputerName": "mp28bh00",
