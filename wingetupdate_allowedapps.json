@@ -145,7 +145,7 @@
         {
             "Name": "Microsoft Office - Excel",
             "Id": "Microsoft.Office",
-            "GUI": "[Launches silent installer box]",
+            "GUI": "[Launches silent installer box, takes awhile]",
             "Exe": "excel.exe",
             "Display": true,
             "Kill": true
@@ -153,7 +153,7 @@
         {
             "Name": "Microsoft Office - PowerPoint",
             "Id": "Microsoft.Office",
-            "GUI": "[Launches silent installer box]",
+            "GUI": "[Launches silent installer box, takes awhile]",
             "Exe": "powerpnt.exe",
             "Display": true,
             "Kill": true
@@ -161,7 +161,7 @@
         {
             "Name": "Microsoft Office - Word",
             "Id": "Microsoft.Office",
-            "GUI": "[Launches silent installer box]",
+            "GUI": "[Launches silent installer box, takes awhile]",
             "Exe": "winword.exe",
             "Display": true,
             "Kill": true
