@@ -143,6 +143,14 @@
             "Kill": false
         },
         {
+            "Name": "Microsoft Office",
+            "Id": "Microsoft.Office",
+            "GUI": "",
+            "Exe": "excel.exe",
+            "Display": true,
+            "Kill": true
+        },
+        {
             "Name": "MS PowerShell",
             "Id": "Microsoft.PowerShell",
             "GUI": "",
