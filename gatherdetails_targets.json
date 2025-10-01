@@ -20,27 +20,13 @@
         ]
     },
     {
-        "Added": "08282025",
-        "ComputerName": "2MQ45203VK",
+        "Added": "10012025",
+        "ComputerName": "5CD3168DDR",
         "RemoveDefaultUsers": true
     },
     {
-        "Added": "08282025",
-        "ComputerName": "5cd3051nnw",
-        "RemoveDefaultUsers": true,
-        "Users": [
-            {
-                "Name": "Administrator",
-                "Delete": "yes"
-            }
-        ],
-        "RegKeyRemove": [
-            "HKEY_USERS\\Administrator\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\ZoomUMX"
-        ]
-    },
-        {
-        "Added": "09152025",
-        "ComputerName": "MP29CGQ7",
+        "Added": "10012025",
+        "ComputerName": "5CD4046W46",
         "RemoveDefaultUsers": true
     },
     {
