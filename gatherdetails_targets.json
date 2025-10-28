@@ -3,7 +3,7 @@
         "Added": "08282025",
         "ComputerName": "SAMPLEPC",
         "RemoveDefaultUsers": true,
-        "Users": [
+        "RemoveUsers": [
             {
                 "Name": "customuser0",
                 "Delete": "yes"
@@ -13,6 +13,28 @@
                 "Delete": "no"
             }
         ],
+        "AdminAddTmp": [
+            {
+                "Name": "azuread\\matthewbirdsall",
+				"UPN" : "mbirdsall@bluebin.com"
+            },
+            {
+                "Name": "AzureAD\\DeoDatawatwese",
+				"UPN" : "ddatawatwese@bluebin.com"
+            }
+		],
+		"AdminAdd": [
+            {
+                "Name": "azuread\\ryanhaynes",
+				"UPN" : "rhaynes@bluebin.com"
+            }
+		],
+		"AdminRem": [
+            {
+                "Name": "azuread\\de'andraepolk",
+				"UPN" : "dpolk@bluebin.com"
+            }
+		],
         "RegKeyRemove": [
             "HKCU\\Software\\OldApp",
             "HKLM\\Software\\ObsoleteKey",
