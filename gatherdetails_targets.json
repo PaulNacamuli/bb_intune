@@ -29,6 +29,33 @@
         "ComputerName": "5CD4046W46",
         "RemoveDefaultUsers": true
     },
+	{
+        "Added": "10282025",
+        "ComputerName": "5CG41705T0",
+        "AdminAddTmp": [
+            {
+                "Name": "azuread\\matthewbirdsall",
+				"UPN" : "mbirdsall@bluebin.com"
+            },
+            {
+                "Name": "AzureAD\\DeoDatawatwese",
+				"UPN" : "ddatawatwese@bluebin.com"
+            }
+		],
+		"AdminAdd": [
+            {
+                "Name": "azuread\\ryanhaynes",
+				"UPN" : "rhaynes@bluebin.com"
+            }
+		],
+		"AdminRem": [
+            {
+                "Name": "azuread\\de'andraepolk",
+				"UPN" : "dpolk@bluebin.com"
+            }
+		]
+
+    },
     {
         "Added": "09052025",
         "ComputerName": "mp28bh00",
