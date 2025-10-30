@@ -191,9 +191,9 @@
             "Kill": true
         },
         {
-            "Name": "MS Teams",
+            "Name": "MS Teams - Must 'Quit Teams' from Notification Area (System Tray)",
             "Id": "Microsoft.Teams",
-            "GUI": "Must 'Quit Teams' from Notification Area (System Tray)",
+            "GUI": "",
             "Exe": "ms-teams.exe",
             "Display": true,
             "Kill": true
@@ -356,7 +356,7 @@
             "GUI": "",
             "Exe": "notepad++.exe",
             "Display": true,
-            "Kill": false
+            "Kill": true
         },
         {
             "Name": "PolyLens",
