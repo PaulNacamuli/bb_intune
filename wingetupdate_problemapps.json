@@ -18,10 +18,5 @@
         "Id": "Microsoft.GlobalSecureAccessClient",
         "Name": "Global Secure Access Client",
         "Reason": "Incompatible with current deployment"
-    },
-    {
-        "Id": "Poly.PolyLens",
-        "Name": "Poly Lens",
-        "Reason": "Causes conflicts with audio drivers"
     }
 ]
