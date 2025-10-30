@@ -167,12 +167,12 @@
             "Kill": true
         },
         {
-            "Name": "MS PowerShell",
+            "Name": "MS PowerShell 7.x",
             "Id": "Microsoft.PowerShell",
             "GUI": "",
-            "Exe": "powershell.exe",
+            "Exe": "pwsh.exe",
             "Display": true,
-            "Kill": false
+            "Kill": true
         },
         {
             "Name": "MS PowerToys",
@@ -193,10 +193,10 @@
         {
             "Name": "MS Teams",
             "Id": "Microsoft.Teams",
-            "GUI": "",
-            "Exe": "teams.exe",
+            "GUI": "Must 'Quit Teams' from Notification Area (System Tray)",
+            "Exe": "ms-teams.exe",
             "Display": true,
-            "Kill": false
+            "Kill": true
         },
         {
             "Name": "MS Teams Classic",
@@ -319,6 +319,14 @@
             "Kill": true
         },
         {
+            "Name": "MS Windows Installation Assistant",
+            "Id": "Microsoft.WindowsInstallationAssistant",
+            "GUI": "",
+            "Exe": "windowsinstallassist.xxx",
+            "Display": false,
+            "Kill": false
+        },
+        {
             "Name": "MS Windows PC Health Check",
             "Id": "Microsoft.WindowsPCHealthCheck",
             "GUI": "",
@@ -367,14 +375,6 @@
             "Kill": true
         },
         {
-            "Name": "Slack",
-            "Id": "SlackTechnologies.Slack",
-            "GUI": "",
-            "Exe": "slack.exe",
-            "Display": false,
-            "Kill": false
-        },
-        {
             "Name": "Scribe Desktop Capture",
             "Id": "ColonyLabs.ScribeDesktopCapture",
             "GUI": "",
@@ -383,10 +383,34 @@
             "Kill": false
         },
         {
+            "Name": "Slack",
+            "Id": "SlackTechnologies.Slack",
+            "GUI": "",
+            "Exe": "slack.exe",
+            "Display": false,
+            "Kill": false
+        },
+                {
+            "Name": "Slido for Windows",
+            "Id": "Slido.Slido",
+            "GUI": "",
+            "Exe": "slido.xxx",
+            "Display": false,
+            "Kill": false
+        },
+        {
             "Name": "Sonos Controller",
             "Id": "Sonos.Controller",
             "GUI": "",
             "Exe": "sonos.exe",
+            "Display": false,
+            "Kill": false
+        },
+        {
+            "Name": "Spotify",
+            "Id": "Spotify.Spotify",
+            "GUI": "",
+            "Exe": "spotify.xxx",
             "Display": false,
             "Kill": false
         },
