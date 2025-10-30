@@ -363,7 +363,7 @@
             "Id": "Poly.PolyLens",
             "GUI": "",
             "Exe": "zzzz.exe",
-            "Display": false,
+            "Display": true,
             "Kill": false
         },
         {
