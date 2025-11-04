@@ -167,6 +167,16 @@
             "Kill": true
         },
         {
+            "Name": "Microsoft OneDrive",
+            "Id": "Microsoft.OneDrive",
+            "GUI": "",
+            "Exe": "pwsh.exe",
+            "Display": true,
+            "Kill": true,
+            "Reinstall": true
+
+        },
+        {
             "Name": "MS PowerShell 7.x",
             "Id": "Microsoft.PowerShell",
             "GUI": "",
